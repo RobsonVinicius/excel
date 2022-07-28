@@ -17,6 +17,7 @@
 
 + [Curso completo e gratuito - Beto Camelini](https://www.youtube.com/watch?v=9OIWw2h7al0&list=PLFVUrXYB__lbg2ttKhleZbLfXABwtx2ni)
 + [Excel nível básico - Hashtag Treinamentos](https://www.youtube.com/watch?v=Ufmem0LjubI&list=PLxjKFMYkZ9OciqkeAGy7w9Rc3CoO80MpK)
++ [Excel nível intermediário - Hashtag Treinamentos](https://www.youtube.com/playlist?list=PLxjKFMYkZ9OevV2_avEsX4f-1wckM45K0)
 
 <br>
 

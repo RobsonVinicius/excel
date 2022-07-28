@@ -8,6 +8,7 @@
 ## 🌐 Sites / Blogs
 
 + [Excel - OfficeTuts.net | Net](https://excel.officetuts.net/)
++ [Excel easy](https://www.excel-easy.com/)
 
 
 <br>

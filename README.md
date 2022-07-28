@@ -7,6 +7,7 @@
 
 ## 🌐 Sites / Blogs
 
++ [Aprender Excel](https://www.aprenderexcel.com.br/tutoriais)
 + [Excel - OfficeTuts.net | Net](https://excel.officetuts.net/)
 + [Excel easy](https://www.excel-easy.com/)
 

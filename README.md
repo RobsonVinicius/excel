@@ -7,6 +7,7 @@
 
 ## 🌐 Sites / Blogs
 
++ [Aprender Excel](https://www.aprenderexcel.com.br/tutoriais)
 + [Excel - OfficeTuts.net | Net](https://excel.officetuts.net/)
 + [Excel easy](https://www.excel-easy.com/)
 
@@ -21,7 +22,7 @@
 
 ## 📚  Livros: 
  
-+ (Em breve)
++ Excel fórmulas e funções Para Leigos - Ken Bluttman | [Comprar na Amazon](https://www.amazon.com.br/dp/8550808458?tag=inlivros-20&linkCode=osi&th=1&psc=1&keywords=livros%20de%20excel)
 
 <br>
 

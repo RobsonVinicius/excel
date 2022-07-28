@@ -22,7 +22,7 @@
 
 ## 📚  Livros: 
  
-+ (Em breve)
++ Excel fórmulas e funções Para Leigos | [Comprar na Amazon](https://www.amazon.com.br/dp/8550808458?tag=inlivros-20&linkCode=osi&th=1&psc=1&keywords=livros%20de%20excel)
 
 <br>
 

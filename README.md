@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="images/excel-banner.jpg" min-width="800px" width="800px" align="center" alt="image">
+ <img src="images/excel-banner.jpg" min-width="1000px" width="1000px" align="center" alt="image">
    
 </div>
 <br><br>

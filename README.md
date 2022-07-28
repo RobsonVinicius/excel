@@ -14,12 +14,10 @@
 
 ## 📚  Livros: 
  
-+ 
-
-<br>
-
-
++ (Em breve)
 
 <br>
 
 ## 📰 Posts / Artigos
+
++ (Em breve)

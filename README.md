@@ -20,6 +20,7 @@
 + [Excel nível intermediário - Hashtag Treinamentos](https://www.youtube.com/playlist?list=PLxjKFMYkZ9OevV2_avEsX4f-1wckM45K0)
 + [Excel nível avançado - Hashtag Treinamentos](https://www.youtube.com/playlist?list=PLxjKFMYkZ9OdV7vanbNlh5hzXjbVKIU1g)
 + [30 dias 30 aulas de Excel - Ninja do Excel](https://www.youtube.com/playlist?list=PL_Q1UZN6PAWqWKyKD7tTTFSkMzqZ-yt2P)
++ [Planilhas Automatizadas - Tudo com Excel com Tarcila Landin](https://www.youtube.com/playlist?list=PLlgm120DjoLF8XJO-RcxhSgXAvmWAqObD)
 
 <br>
 

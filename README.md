@@ -19,6 +19,7 @@
 + [Excel nível básico - Hashtag Treinamentos](https://www.youtube.com/watch?v=Ufmem0LjubI&list=PLxjKFMYkZ9OciqkeAGy7w9Rc3CoO80MpK)
 + [Excel nível intermediário - Hashtag Treinamentos](https://www.youtube.com/playlist?list=PLxjKFMYkZ9OevV2_avEsX4f-1wckM45K0)
 + [Excel nível avançado - Hashtag Treinamentos](https://www.youtube.com/playlist?list=PLxjKFMYkZ9OdV7vanbNlh5hzXjbVKIU1g)
++ [30 dias 30 aulas de Excel - Ninja do Excel](https://www.youtube.com/playlist?list=PL_Q1UZN6PAWqWKyKD7tTTFSkMzqZ-yt2P)
 
 <br>
 

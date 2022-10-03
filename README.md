@@ -27,6 +27,8 @@
 ## 📚  Livros: 
  
 + Excel fórmulas e funções Para Leigos - Ken Bluttman | [Comprar na Amazon](https://amzn.to/3M1USrK) | [Versão kindle](https://amzn.to/3rtSVLn)
++ Excel BI em 100 Páginas - Roger F Silva | [Comprar na Amazon](https://amzn.to/3fzmDvI) | [Versão kindle](https://amzn.to/3SzpwLx)
+
 
 <br>
 
